@@ -1,5 +1,5 @@
 # ESP8266-Webserver
-This Arduino sketch starts the ESP8266 as an access point, and provides a web interface to configure WiFi credentials and control the ESP'S GPIO pins. This code relies on the [ESP8266 Arduino core](https://github.com/esp8266/Arduino), an excellent Arduino library for programming the ESP8266.
+This Arduino sketch starts the ESP8266 as an access point, and provides a web interface to configure WiFi credentials and control the ESP'S GPIO pins. This code uses the [ESP8266 Arduino core](https://github.com/esp8266/Arduino), an excellent Arduino library for programming the ESP8266.
 
 Main page:
 
